@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="./popup.css">
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-title"> Set Skip Time </div>
+      <div class="line">
+        <div class="title"> Short Time </div>
+        <input type="number" id="short">
+        <span class="unit"> second </span>
+      </div>
+      <div class="line">
+        <div class="title"> Medium Time </div>
+        <input type="number" id="medium">
+        <span class="unit"> second </span>
+      </div>
+      <div class="line">
+        <div class="title"> Long Time </div>
+        <input type="number" id="long">
+        <span class="unit"> second </span>
+      </div>
+      <div id="save" class="container save-button">
+        <div> Save </div>
+      </div>
+      <div id="error"></div>
+    </div>
+    <script src="./popup.js"></script>
+  </body>
+</html>

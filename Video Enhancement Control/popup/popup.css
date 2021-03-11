@@ -1,0 +1,49 @@
+.main {
+  width: 270px;
+  padding: 10px 10px 1px;
+}
+.main-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.line {
+  width: 100%;
+}
+.line + .line {
+  margin: 10px 0;
+}
+.title {
+  width: 90px;
+  font-size: 13px;
+  font-weight: bold;
+  display: inline-block;
+}
+input {
+  width: 115px;
+  padding: 2px 5px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+  -webkit-appearance: none !important;
+}
+.unit {
+  margin-left: 5px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.save-button {
+  width: 100%;
+  height: 30px;
+  border-radius: 6px;
+  background-color: #3aa757;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
