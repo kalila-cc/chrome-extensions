@@ -22,7 +22,7 @@ Add keyboard shortcut control for video.
 
 ## About
 
-Welcome to **Star** my [GitHub homepage](https://www.github.com/kalila-cc/HOME). Through the homepage, you can:
+Welcome to **Star** my [GitHub homepage](https://www.github.com/kalila-cc). Through the homepage, you can:
 
 - Learn more about my works.
 - Any comments or suggestions on the code or program.
